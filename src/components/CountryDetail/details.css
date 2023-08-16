@@ -1,0 +1,23 @@
+.details{
+    width: 400px;
+    height: 500px;
+    background-color: whitesmoke;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;   
+   
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    background-image: url('map.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100vw; 
+    height: 100vh;
+
+    
+}
+
